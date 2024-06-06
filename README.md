@@ -1,12 +1,15 @@
-## Hi there 👋
-## Sou João, graduado em Análise e Desenvolvimento de Sistemas e iniciando alguns projetos aqui...
+<h1 align="center">Olá 👋, Eu sou o João</h1>
+<h3 align="center">Um iniciante em desenvolvimento</h3>
 
-## Estou aprendendo
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
+- 🌱 Atualmente estou aprendendo **Python**
 
-<div>
-<a href="https://github.com/jmvvital">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmvvital&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jmvvital&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<p align="left">
+</p>
+
+<h3 align="left">Linguagens e Ferramentas:</h3>
+<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmvvital&show_icons=true&locale=en&layout=compact" alt="jmvvital" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmvvital&show_icons=true&locale=en" alt="jmvvital" /></p>
