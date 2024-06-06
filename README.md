@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou o João</h1>
+<h1 align="center">Olá 👋, eu sou o João</h1>
 <h3 align="center">Um iniciante em desenvolvimento</h3>
 
 
